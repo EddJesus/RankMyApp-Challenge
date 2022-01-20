@@ -17,7 +17,7 @@ The application is a simple list with filter option and pagination
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/EddJesus/Vizpert-Challenge.git
+   git clone https://github.com/EddJesus/RankMyApp-Challenge.git
    ```
 2. Install packages
    ```sh
